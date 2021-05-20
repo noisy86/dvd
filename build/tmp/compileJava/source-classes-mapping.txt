@@ -1,0 +1,10 @@
+educanet/utils/FileUtils.java
+ educanet.utils.FileUtils
+educanet/Game.java
+ educanet.Game
+educanet/Main.java
+ educanet.Main
+educanet/utils/Colors.java
+ educanet.utils.Colors
+educanet/Shaders.java
+ educanet.Shaders
